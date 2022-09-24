@@ -1,9 +1,8 @@
 # Welcome, visitor! #
-## This is a small project just to improve my basics python learning ##
+### This is a small project just to improve my basics python learning ###
 With this, you can log all your runnings and walks by kilometers or miles, elapsed time and date, so you can keep track of your physical activity.
 
-<h2> Installation <h2>
-
+## Installation ##
 ```
 git clone https://github.com/munraitoo13/workoutlogger1.0/
 ```
